@@ -1,7 +1,7 @@
 import Toggle from "./js/toggle";
 import Graph from "./js/graph";
 import Image from './js/image';
-import imgSrc from "./img/image2.png";
+import imgSrc from "./img/image2.png"; // src 
 
 const toggleContainer = document.querySelector(".toggle-container");
 const toggle1 = new Toggle("Раздел 1", "Привет!!!");
